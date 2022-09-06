@@ -25,3 +25,5 @@ D:\SSD480GB\PtoNET\Marcio01\repoPtoNET01\Api\obj\Debug\net6.0\refint\Api.dll
 D:\SSD480GB\PtoNET\Marcio01\repoPtoNET01\Api\obj\Debug\net6.0\Api.pdb
 D:\SSD480GB\PtoNET\Marcio01\repoPtoNET01\Api\obj\Debug\net6.0\Api.genruntimeconfig.cache
 D:\SSD480GB\PtoNET\Marcio01\repoPtoNET01\Api\obj\Debug\net6.0\ref\Api.dll
+D:\SSD480GB\PtoNET\Marcio01\repoPtoNET01\Api\bin\Debug\net6.0\Web.Data.dll
+D:\SSD480GB\PtoNET\Marcio01\repoPtoNET01\Api\bin\Debug\net6.0\Web.Data.pdb
